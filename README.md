@@ -1,25 +1,26 @@
 # Hi there 👋
 I'm Wicho or Luis but I perfer wicho :)
 
+He/Him/His
+
+
 ## 👷 I’m currently working on ...
 I am currently working on a weather app (with) python using an API
+
 and fininshing off my calc and dice programs
 
 
 ## 🤔 I’m currently learning ...
-### python 
 - api/requests
 - decerators
 - and python syntax in general
-
-##  🤝 I’m looking to collaborate on ...
-- streaming/content creation
   
 ## 😣 I’m looking for help with ...
 - discord server!
+- streaming/content creation
 
+## 📫 How to reach me:
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+email: ljcastroluna1@gmail.com
+
+discord: coming soon!
