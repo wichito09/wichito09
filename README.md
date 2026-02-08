@@ -13,7 +13,7 @@ and fininshing off my calc and dice programs
 ## 🤔 I’m currently learning ...
 - api/requests
 - decerators
-- and python syntax in general
+- tkinter
   
 ## 😣 I’m looking for help with ...
 - discord server!
